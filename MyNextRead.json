@@ -1,8 +1,8 @@
 {
   "MyNextRead":
   [
-    {"BookCover":"XXX", "BookTitle":"XXX", "BookAuthor":"XXX", "BookSeries":"XXX", "BookGenre":"XXX", "BookRating":1, "BookPrice":17.99, "BookLink":"XXX", "BookDescription":"Trail Description Text"},
-    {"BookCover":"YYY", "BookTitle":"YYY", "BookAuthor":"YYY", "BookSeries":"YYY", "BookGenre":"YYY", "BookRating":1, "BookPrice":17.99, "BookLink":"YYY", "BookDescription":"Trail Description Text"}
+    {"BookCover":"XXX", "BookTitle":"XXX", "BookAuthor":"XXX", "BookSeries":"XXX", "BookGenre":"XXX", "BookRating":1, "BookPrice":17.99, "BookLink":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508187186l/32702487._SY475_.jpg", "BookDescription":"Trail Description Text"},
+    {"BookCover":"YYY", "BookTitle":"YYY", "BookAuthor":"YYY", "BookSeries":"YYY", "BookGenre":"YYY", "BookRating":1, "BookPrice":17.99, "BookLink":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589881197l/52867387._SY475_.jpg", "BookDescription":"Trail Description Text"}
   ],
   "Status":"OK"
 }
